@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 demotraining new branch updating
+=======
+demotraining new branch update
+>>>>>>> 7339e00b1b18406374560b3c948e2abc0cf196f1
